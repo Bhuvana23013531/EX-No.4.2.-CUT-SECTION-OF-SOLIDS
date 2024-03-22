@@ -1,5 +1,7 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+## DATE:22-03-2024
+## NAME: BHUVANESHWARI M
+## REGISTER NO: 212223230033
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
@@ -42,6 +44,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![Screenshot 2024-03-22 112426](https://github.com/Bhuvana23013531/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/147125678/33d00777-14dd-48e3-9789-05d02d6dd796)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
